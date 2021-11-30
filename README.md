@@ -33,7 +33,9 @@ Various activation functions:
 
 - Leaky rectified linear unit (Leaky ReLU)
 
-- Parameteric rectified linear unit (PReLU) Randomized leaky rectified linear unit (RReLU)
+- Parameteric rectified linear unit (PReLU) 
+
+- Randomized leaky rectified linear unit (RReLU)
 
 - Exponential linear unit (ELU)
 
