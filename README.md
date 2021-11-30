@@ -1,6 +1,6 @@
 # INFO6105-Deep-Learning-CNN-Assignment
 
-### My Topic - Multi class image classification using CNN (Dataset - Kaggle's Intel image classification dataset)
+### My Topic - Multi class image classification using CNN (Dataset - ![Kaggle's Intel image classification dataset](https://www.kaggle.com/puneet6060/intel-image-classification))
 
 
 
